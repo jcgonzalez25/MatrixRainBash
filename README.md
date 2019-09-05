@@ -5,4 +5,4 @@
 <h2>Features</h2>
     <h3> Adjusting Char Variable will print the character accordingly</h3>
 <h2>Implementation</h2>
-    <h3> used basic printf functiong along with tput command to implement frames
+    <h3> used basic printf functiong along with tput command to implement frames##Note: May be slow on low pixel resolutions
