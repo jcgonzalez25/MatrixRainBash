@@ -1,8 +1,14 @@
-<h1> Matrix Animation for shell</h1>
-<h2>Basic Overview</h2>
-    <h3> Using bash to create a matrix animation on terminal</h3>
-    <h3> By using tput and printf command i could simulate frames and create a matrix animation</h3>
-<h2>Features</h2>
-    <h3> Adjusting Char Variable will print the character accordingly</h3>
-<h2>Implementation</h2>
-    <h3> used basic printf functiong along with tput command to implement frames##Note: May be slow on low pixel resolutions
+# Matrix Animation In Bash
+
+## Overview
+* Using BASH to create a matrix animation on terminal
+* By using `tput` and `printf` command i could simulate frames and create a matrix animation
+## Preview
+![Matrix Demonstration](matrix_demonstration.gif)
+## Features
+* Adjusting `Char` global Variable will print the character accordingly
+## Implementation
+* Used basic `printf` functiong along with `tput` command to implement frames
+
+    Note: May be slow on low pixel resolutions
+
