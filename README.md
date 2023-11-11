@@ -1,4 +1,4 @@
-# 🌌 MatrixTerminal: Digital Rain in Your Bash 🌌
+# 🌌 MatrixRainBash: Digital Rain in Your Bash 🌌
 
 ## Overview
 👁️ **MatrixTerminal**: Dive into the cyber world with this enthralling Matrix-style animation crafted for your terminal. Utilizing the simplicity and power of BASH, this script brings the iconic Matrix digital rain to life. It's a perfect blend of nostalgia and tech, powered by `tput` and `printf` commands.
